@@ -1,0 +1,61 @@
+{
+  "_from": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+  "_id": "smart-d-link@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-YdFjsIfz4UyQSaq3Kmu7j9yPQ78xcUQuxKSW3dQw30/SdcqmJ58hJ+JdC5rqn0K329w7G57RDGQkYvzBnlcqhg==",
+  "_location": "/smart-d-link",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+  "_shasum": "edb7894b9d0d737500eefe5ca4cd6fac43b18079",
+  "_spec": "https://www.atom.io/api/packages/smart-d-link/versions/1.1.0/tarball",
+  "_where": "C:\\WINDOWS\\TEMP\\apm-install-dir-119620-11364-hp0u8q.4xaud",
+  "activationEvents": [
+    "atom-live-server:activate"
+  ],
+  "bugs": {
+    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "console": {
+      "versions": {
+        "^0.1.0": "consumeConsole"
+      }
+    },
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  },
+  "dependencies": {
+    "json5": "^0.5.1",
+    "live-server": "^1.2.0",
+    "strip-ansi": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "Easy to download, watch content and maintain folders.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/C4TBrilliantThoughts/smart-d-link#readme",
+  "license": "MIT",
+  "main": "./lib/smart-d-link",
+  "name": "smart-d-link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link.git"
+  },
+  "version": "1.1.0"
+}
