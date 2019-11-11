@@ -57,7 +57,7 @@
   "name": "smart-d-link",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/C4TBrilliantThoughts/smart-d-link.git"
+    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link.git"
   },
   "version": "6.0.0"
 }
