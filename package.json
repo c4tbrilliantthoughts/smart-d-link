@@ -1,25 +1,25 @@
 {
-  "_from": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-  "_id": "smart-d-link@5.0.0",
+  "_from": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+  "_id": "smart-d-link@7.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-6/CrxG1f+Le5x5K98GO5td+iTrFPJKrGrnPtJXUf0YXGj1oWkgxh7WTVLMjMmuqg+0g7834unz609wA7hbPInQ==",
+  "_integrity": "sha512-zAf9R/K3qQX0EIK6PQywj4jL8h0eKRVse7Vqq4PMj3ScqVEVwUr89baUCicjakzfG906cxv01S53AiTomyXiiQ==",
   "_location": "/smart-d-link",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
-    "raw": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-    "rawSpec": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-    "saveSpec": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-    "fetchSpec": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball"
+    "raw": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-  "_shasum": "3f74dd9db9c4448da2f6fbddd2212bb504698f86",
-  "_spec": "https://www.atom.io/api/packages/smart-d-link/versions/5.0.0/tarball",
-  "_where": "C:\\WINDOWS\\TEMP\\apm-install-dir-1191010-10128-1muhwh0.cej7",
+  "_resolved": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+  "_shasum": "b5f4d67d1a4cd098108b2025423f244f4ce30e19",
+  "_spec": "https://www.atom.io/api/packages/smart-d-link/versions/7.0.0/tarball",
+  "_where": "C:\\WINDOWS\\TEMP\\apm-install-dir-1191011-3168-1ga75v.48hm3j",
   "activationEvents": [
     "atom-live-server:activate"
   ],
@@ -42,7 +42,6 @@
   "dependencies": {
     "dataserve-index": "^0.0.5",
     "json5": "^0.5.1",
-    "live-server": "^1.2.0",
     "package.json": "^2.0.1",
     "strip-ansi": "^4.0.0"
   },
@@ -57,7 +56,7 @@
   "name": "smart-d-link",
   "repository": {
     "type": "git",
-    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link.git"
+    "url": "git+https://github.com/C4TBrilliantThoughts/smart-d-link.git"
   },
   "version": "7.0.0"
 }
