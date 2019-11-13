@@ -44,7 +44,7 @@
     "json5": "^0.5.1",
     "package.json": "^2.0.1",
     "strip-ansi": "^4.0.0",
-    "smart-live-server": "^1.1.2"
+    "smart-live-server": "^1.1.1"
   },
   "deprecated": false,
   "description": "Easy to download, watch content and maintain folders.",
