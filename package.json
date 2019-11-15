@@ -24,7 +24,7 @@
     "atom-live-server:activate"
   ],
   "bugs": {
-    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link/issues"
+    "url": "https://github.com/Sumanth-C4TBrilliantThoughts/smart-d-link/issues"
   },
   "bundleDependencies": false,
   "consumedServices": {
@@ -51,13 +51,13 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/C4TBrilliantThoughts/smart-d-link#readme",
+  "homepage": "https://github.com/Sumanth-C4TBrilliantThoughts/smart-d-link#readme",
   "license": "MIT",
   "main": "./lib/smart-d-link",
   "name": "smart-d-link",
   "repository": {
     "type": "git",
-    "url": "https://github.com/C4TBrilliantThoughts/smart-d-link.git"
+    "url": "https://github.com/Sumanth-C4TBrilliantThoughts/smart-d-link.git"
   },
   "version": "11.2.0"
 }
