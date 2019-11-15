@@ -7,37 +7,11 @@
 
 
 
-## Install through ``NPM`
-This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/). Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+# Install ``Atom IDE``.
+1. Install the apm utility. See http://flight-manual.atom.io/getting-started/sections/installing-atom/ if you do not have it installed.
+   
 
-
- steps follow:
- 
- 1. Go to your user directory C:\Users\ <name> \.atom\packages\
- 2. Run below command it will install ``smart-d-link`` plugin to your .atom/packages/
-    
-    ```sh
-        $ npm install smart-d-link
-    ```
- Demo :
- 
-
-
-## Install through ``ATOM``
-
-
-If you connect multiple devices same network like ``Wi-Fi`` or ``LAN`` you can access this smart build server url across.
-
-![C4T](/imgs/smart.gif "C4TBT/Sumanth")
-
-```
-Supported: - Mobile
-           - Desktop
-```
-
-# How to install ``atom plugin`` from the ``Atom`` market place.
+# How to install ``smart-d-link plugin`` from the ``Atom`` market place.
 
   1. Open Atom application
 
@@ -45,20 +19,30 @@ Supported: - Mobile
 
   3. Select Install on the Settings menu
   
-  4. Then type in search box ``Smart-D-Link`` and click on install button.
+  4. Then type in search box ``smart-d-link`` and click on install button.
 
-# Install ``atom plugin`` with a ``command line``
-1. Install the apm utility. See http://flight-manual.atom.io/getting-started/sections/installing-atom/ if you do not have it installed.
+```
+DEMO
+```
 
-2. Git clone this repository
+![C4T](/imgs/smart.gif "C4TBT/Sumanth")
 
-3. Switch to the root directory of the clone on your local disk
+Use this smart-d-link on your SmartTV, Tablet, Mobile and Laptop.
 
-4. Run the command 'apm link' in a terminal
+Steps
+1. Make sure your SmartTV, Tablet, Mobile and Laptop is on the same Wi-Fi network as your smart-d-link.
+2. Access url which is running through smart-d-link (ex: http://localhost:5402) to your connected devices.
 
-
+```
+Supported: - Mobile
+           - Desktop
+           - SmartTV
+           - Tablets
+           - Laptops/Desktops/Mac
+```
 Creators : 
-``Sumanth.S ``  /  ``C4T Brilliant Thoughts``
+``Sumanth.Sanathi ``  /  ``C4T Brilliant Thoughts``
+
 
 
 
