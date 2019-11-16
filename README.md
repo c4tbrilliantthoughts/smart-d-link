@@ -4,7 +4,6 @@
 
 ### Easy to download, watch content and maintain folders.
 
-![C4T](/imgs/Smart-D-Link.gif "C4TBT/Sumanth")
 
 
 # Install ``Atom IDE``.
@@ -25,7 +24,7 @@
 DEMO
 ```
 
-![C4T](/imgs/smart.gif "C4TBT/Sumanth")
+![C4T](/imgs/Smart-D-Link.gif "C4TBT/Sumanth")
 
 Use this smart-d-link on your SmartTV, Tablet, Mobile and Laptop.
 
