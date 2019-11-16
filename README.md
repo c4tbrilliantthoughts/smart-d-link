@@ -1,5 +1,5 @@
 
-![C4T](/doc/Smart-D-Link.mp4 "C4TBT/Sumanth")
+![C4T](/imgs/Smart-D-Link.gif "C4TBT/Sumanth")
 
 # `Smart Data Link`
 
