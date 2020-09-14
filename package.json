@@ -52,7 +52,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "homepage": "https://github.com/Sumanth-C4TBrilliantThoughts/smart-d-link#readme",
-  "license": "MIT",
   "main": "./lib/smart-d-link",
   "name": "smart-d-link",
   "repository": {
